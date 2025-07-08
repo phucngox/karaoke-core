@@ -15,4 +15,4 @@ This file doesn't include:
 
 You are free to build your own visual layer on top.
 
-Author: Yume Anime
+Author: Yume Anime Vietsub
